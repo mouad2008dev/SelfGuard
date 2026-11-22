@@ -1,7 +1,13 @@
 <div align="center">
 
 # 🛡️ SelfGuard
+<div align="center" dir="rtl">
 
+> **قُل لِّلۡمُؤۡمِنِينَ يَغُضُّواْ مِنۡ أَبۡصَٰرِهِمۡ وَيَحۡفَظُواْ فُرُوجَهُمۡۚ ذَٰلِكَ أَزۡكَىٰ لَهُمۡۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا يَصۡنَعُونَ** ﴿٣٠﴾
+>
+> — سورة النور
+
+</div>
 **A self-discipline & content-blocking tool for Windows (C# / .NET 8)**
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20x64-0078D6?logo=windows)
@@ -262,12 +268,4 @@ dotnet run --project DomainListBuilder -c Release -- path\to\sites.json SelfGuar
 - [WinDivert](https://reqrypt.org/windivert.html) — packet interception library. Please review its license before redistributing.
 
 
----
 
-<div align="center" dir="rtl">
-
-> **قُل لِّلۡمُؤۡمِنِينَ يَغُضُّواْ مِنۡ أَبۡصَٰرِهِمۡ وَيَحۡفَظُواْ فُرُوجَهُمۡۚ ذَٰلِكَ أَزۡكَىٰ لَهُمۡۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا يَصۡنَعُونَ** ﴿٣٠﴾
->
-> — سورة النور
-
-</div>

@@ -261,9 +261,6 @@ dotnet run --project DomainListBuilder -c Release -- path\to\sites.json SelfGuar
 
 - [WinDivert](https://reqrypt.org/windivert.html) — packet interception library. Please review its license before redistributing.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) *(update this link after adding your `LICENSE` file)*.
 
 ---
 
